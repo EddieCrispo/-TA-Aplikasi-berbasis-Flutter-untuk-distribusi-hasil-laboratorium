@@ -1,6 +1,7 @@
 # [TA] Aplikasi-berbasis-mobile-untuk-distribusi-riwayat-hasil-pemeriksaan-laboratorium
 
 ## Repository ini adalah untuk menyimpan kode hasil TA yaitu aplikasi berbasis mobile untuk distribusi dan riwayat hasil pemeriksaan laboratorium menggunakan metode RAD di RSUD Kraton Pekalongan
+Aplikasi ini menggunakan Framework Flutter dan ada 2 versi, yaitu versi mobile untuk pasien, dan versi desktop/web untuk admin lab untuk mengunggah hasil laboratorium.
 
 ### Screenshots
 - Login
