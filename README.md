@@ -4,7 +4,7 @@
 
 ### Screenshots
 - Login
-  <img src="Screenshots/Login.png" width="100">
+- <img src="Screenshots/Login.png" width="250">
 - Register
 - Home
 - Tampil Hasil
