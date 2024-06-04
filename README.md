@@ -4,7 +4,7 @@
 
 ### Screenshots
 - Login
-- ![Login Screen](Screenshots/Login.png)
+  <img src="Screenshots/Login.png" width="100">
 - Register
 - Home
 - Tampil Hasil
