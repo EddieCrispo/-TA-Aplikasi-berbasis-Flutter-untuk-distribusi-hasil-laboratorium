@@ -4,6 +4,7 @@
 
 ### Screenshots
 - Login
+- ![Login Screen](Screenshots/Login.png)
 - Register
 - Home
 - Tampil Hasil
